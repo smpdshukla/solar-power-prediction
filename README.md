@@ -1,4 +1,4 @@
-# Week1 & Week2
+# Solar power prediction
 This project focuses on predicting the solar power generation using Linear Regression model. It uses historical dataset of solar power generstion.
 Key Features
 Data Analysis: Analyzes historical solar power generation data.
